@@ -1,0 +1,6 @@
+@PlatillosAPI_KeirynSandi_HostAddress = http://localhost:5104
+
+GET {{PlatillosAPI_KeirynSandi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
